@@ -1,0 +1,5 @@
+Isaac Schrader
+Automate Data Normalization
+
+
+I fully conclude that normalization is essential because it improves consistency for downstream tasks as well that whitespace handling matters in that it ensures clean boundaries and avoids misalignment in tabular or structured data. 
