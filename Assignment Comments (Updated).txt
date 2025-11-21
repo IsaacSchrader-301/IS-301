@@ -1,0 +1,7 @@
+Isaac Schrader
+11/20/2025
+Assignment Comments: 
+
+By Hand: By hand, I will need to curate and maintain the raw .txt file, since adding new soil records or correcting spelling and formatting errors still requires human input before the script can process them. You may also want to manually verify the CSV output against trusted references to ensure accuracy of the soil names and classifications. 
+
+By Refinement: The script could be extended to handle multiple input files in batch mode, automatically generate separate CSVs per region, or even normalize multi‑word fields so they don’t split incorrectly. Adding error logging, unique IDs across files, or options for different delimiters would make the solution more robust. In short, the manual work is focused on data entry and validation, while the refinement opportunities lie in scaling, error handling, and making the script more flexible for broader datasets.
