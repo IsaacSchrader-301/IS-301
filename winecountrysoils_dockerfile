@@ -1,0 +1,8 @@
+# winecountrysoils_dockerfile
+
+FROM ubuntu
+
+WORKDIR winecountrysoils
+
+COPY soils.sh /bin
+COPY soils.csv .
